@@ -1,0 +1,2941 @@
+{
+  "user_abxh1v4ui1754310146148": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "265 DI",
+      "price_estimation": "₹1,50,000 to ₹2,50,000"
+    },
+    "rust_tire": {
+      "rust_percent": 10,
+      "rust_observation_text": "Minor rust observed on the wheel rims and some parts of the body.",
+      "tires": {
+        "front_left": {
+          "percent": 70,
+          "text": "Front left tire appears to be in good condition with moderate wear."
+        },
+        "front_right": {
+          "percent": "not_visible",
+          "text": "Front right tire is not visible."
+        },
+        "rear_left": {
+          "percent": 60,
+          "text": "Rear left tire shows signs of wear but still usable."
+        },
+        "rear_right": {
+          "percent": "not_visible",
+          "text": "Rear right tire is not visible."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra Yuvo 265 DI",
+      "match_score": 85.71428571428572,
+      "max_price": 549980
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 10,
+        "rust_observation_text": "Minor rust observed on the wheel rims and some parts of the body.",
+        "tires": {
+          "front_left": {
+            "percent": 70,
+            "text": "Front left tire appears to be in good condition with moderate wear."
+          },
+          "front_right": {
+            "percent": "not_visible",
+            "text": "Front right tire is not visible."
+          },
+          "rear_left": {
+            "percent": 60,
+            "text": "Rear left tire shows signs of wear but still usable."
+          },
+          "rear_right": {
+            "percent": "not_visible",
+            "text": "Rear right tire is not visible."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra Yuvo 265 DI",
+        "match_score": 85.71428571428572,
+        "max_price": 549980
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 42.0,
+        "estimated_resale_value_percent": 58.0,
+        "estimated_resale_price_inr": 318988,
+        "rust_depreciation": 4.0,
+        "tire_depreciation": 21.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "not_visible",
+          "rear_left": "Average",
+          "rear_right": "not_visible"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "3131.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_abxh1v4ui17543101461499": {
+    "number_plate": "MH-15JM-5592",
+    "vahan_data": {
+      "RC_number": "MH15JM5592",
+      "age": 1,
+      "owner_name": "DATTATRAY CHANGDEO GADHE",
+      "Model": "YUVO TECH575 DI",
+      "status": 1
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "265",
+      "price_estimation": "200000-350000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but still in usable condition."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but still in usable condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+      "match_score": 77.77777777777779,
+      "max_price": 674100
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but still in usable condition."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but still in usable condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+        "match_score": 77.77777777777779,
+        "max_price": 674100
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 24.0,
+        "estimated_resale_value_percent": 76.0,
+        "estimated_resale_price_inr": 512316,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 7,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1754311890888": {
+    "number_plate": "MH 15JM 5592",
+    "vahan_data": {
+      "error": "RC not found",
+      "msg": "आपके द्वारा बताइये गए RC से आपके ट्रेक्टर की जानकारी प्राप्त नहीं हो सकी है, कृपया ट्रेक्टर की तस्वीरें और उम्र बताके पुनः प्रयास करे।"
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Possibly Mahindra 475",
+      "price_estimation": "₹3,00,000 - ₹4,50,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but still in usable condition."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but still in usable condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra 475 DI SP Plus",
+      "match_score": 67.9245283018868,
+      "max_price": 727600
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but still in usable condition."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but still in usable condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra 475 DI SP Plus",
+        "match_score": 67.9245283018868,
+        "max_price": 727600
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 480216,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_byidntvwb1754312273228": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Farmtrac",
+      "model": "60",
+      "price_estimation": "3,00,000 - 4,00,000 INR"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper and some metal parts.",
+      "tires": {
+        "front_left": {
+          "percent": 70,
+          "text": "Front left tire shows moderate wear with visible tread."
+        },
+        "front_right": {
+          "percent": 70,
+          "text": "Front right tire shows moderate wear with visible tread."
+        },
+        "rear_left": {
+          "percent": 80,
+          "text": "Rear left tire is in good condition with deep tread."
+        },
+        "rear_right": {
+          "percent": 80,
+          "text": "Rear right tire is in good condition with deep tread."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Farmtrac Atom 26",
+      "match_score": 74.07407407407408,
+      "max_price": 585000
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper and some metal parts.",
+        "tires": {
+          "front_left": {
+            "percent": 70,
+            "text": "Front left tire shows moderate wear with visible tread."
+          },
+          "front_right": {
+            "percent": 70,
+            "text": "Front right tire shows moderate wear with visible tread."
+          },
+          "rear_left": {
+            "percent": 80,
+            "text": "Rear left tire is in good condition with deep tread."
+          },
+          "rear_right": {
+            "percent": 80,
+            "text": "Rear right tire is in good condition with deep tread."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Farmtrac Atom 26",
+        "match_score": 74.07407407407408,
+        "max_price": 585000
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 386100,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "20210709181409_6.jpg",
+        "tractor"
+      ],
+      [
+        "20210709181409_4.jpg",
+        "tractor"
+      ],
+      [
+        "20210709181409_3.jpg",
+        "tractor"
+      ],
+      [
+        "20210709181409_1.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_lfee1e1xi1754312465036": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "tractor_1": {
+        "brand": "Mahindra",
+        "model": "Unknown",
+        "price_estimation": "3,00,000 - 4,00,000 INR"
+      },
+      "tractor_2": {
+        "brand": "Farmtrac",
+        "model": "60",
+        "price_estimation": "2,50,000 - 3,50,000 INR"
+      }
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the metal components near the engine and exhaust area.",
+      "tires": {
+        "front_left": {
+          "percent": 70,
+          "text": "Front left tire appears to be in good condition with moderate wear."
+        },
+        "front_right": {
+          "percent": 70,
+          "text": "Front right tire appears to be in good condition with moderate wear."
+        },
+        "rear_left": {
+          "percent": 80,
+          "text": "Rear left tire appears to be in very good condition with minimal wear."
+        },
+        "rear_right": {
+          "percent": 80,
+          "text": "Rear right tire appears to be in very good condition with minimal wear."
+        }
+      }
+    },
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "20210730183809_MH27BZ9076_1.jpg",
+        "tractor"
+      ],
+      [
+        "20210730183809_MH27BZ9076_5.jpg",
+        "tractor"
+      ],
+      [
+        "20210709181409_6.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o175431189212": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "error": "RC not found",
+      "msg": "आपके द्वारा बताइये गए RC से आपके ट्रेक्टर की जानकारी प्राप्त नहीं हो सकी है, कृपया ट्रेक्टर की तस्वीरें और उम्र बताके पुनः प्रयास करे।"
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Unknown",
+      "price_estimation": "₹3,00,000 - ₹5,00,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but still has sufficient tread."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but still has sufficient tread."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 275 DI",
+      "match_score": 61.111111111111114,
+      "max_price": 644800
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but still has sufficient tread."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but still has sufficient tread."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 275 DI",
+        "match_score": 61.111111111111114,
+        "max_price": 644800
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 425568,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o175431189211": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "error": "RC not found",
+      "msg": "आपके द्वारा बताइये गए RC से आपके ट्रेक्टर की जानकारी प्राप्त नहीं हो सकी है, कृपया ट्रेक्टर की तस्वीरें और उम्र बताके पुनः प्रयास करे।"
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Unknown",
+      "price_estimation": "3,00,000 - 4,50,000 INR"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but still has adequate tread."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but still has adequate tread."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 275 DI",
+      "match_score": 61.111111111111114,
+      "max_price": 644800
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but still has adequate tread."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but still has adequate tread."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 275 DI",
+        "match_score": 61.111111111111114,
+        "max_price": 644800
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 425568,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o17543118921000": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "error": "RC not found",
+      "msg": "आपके द्वारा बताइये गए RC से आपके ट्रेक्टर की जानकारी प्राप्त नहीं हो सकी है, कृपया ट्रेक्टर की तस्वीरें और उम्र बताके पुनः प्रयास करे।"
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "265 DI",
+      "price_estimation": "₹200,000 - ₹300,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with minimal wear."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with minimal wear."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but still in usable condition."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but still in usable condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra Yuvo 265 DI",
+      "match_score": 85.71428571428572,
+      "max_price": 549980
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with minimal wear."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with minimal wear."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but still in usable condition."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but still in usable condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra Yuvo 265 DI",
+        "match_score": 85.71428571428572,
+        "max_price": 549980
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 362987,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o166666": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "utpal_ji_2.webp",
+        "others"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "error": "RC not found",
+      "msg": "आपके द्वारा बताइये गए RC से आपके ट्रेक्टर की जानकारी प्राप्त नहीं हो सकी है, कृपया ट्रेक्टर की तस्वीरें और उम्र बताके पुनः प्रयास करे।"
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Unknown",
+      "price_estimation": "₹3,00,000 to ₹4,50,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with minimal wear."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with minimal wear."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but still in usable condition."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but still in usable condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 275 DI",
+      "match_score": 61.111111111111114,
+      "max_price": 644800
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with minimal wear."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with minimal wear."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but still in usable condition."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but still in usable condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 275 DI",
+        "match_score": 61.111111111111114,
+        "max_price": 644800
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 425568,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o16666629": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "error": "RC not found",
+      "msg": "आपके द्वारा बताइये गए RC से आपके ट्रेक्टर की जानकारी प्राप्त नहीं हो सकी है, कृपया ट्रेक्टर की तस्वीरें और उम्र बताके पुनः प्रयास करे।"
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "575 DI XP Plus",
+      "price_estimation": "₹4,00,000 - ₹4,50,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but still functional."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but still functional."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra 575 DI SP Plus",
+      "match_score": 95.65217391304348,
+      "max_price": 770400
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but still functional."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but still functional."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra 575 DI SP Plus",
+        "match_score": 95.65217391304348,
+        "max_price": 770400
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 508464,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o166666290": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "error": "RC not found",
+      "msg": "आपके द्वारा बताइये गए RC से आपके ट्रेक्टर की जानकारी प्राप्त नहीं हो सकी है, कृपया ट्रेक्टर की तस्वीरें और उम्र बताके पुनः प्रयास करे।"
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Unknown",
+      "price_estimation": "₹4,00,000 to ₹5,00,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with some wear."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with some wear."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 275 DI",
+      "match_score": 61.111111111111114,
+      "max_price": 644800
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with some wear."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with some wear."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 275 DI",
+        "match_score": 61.111111111111114,
+        "max_price": 644800
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 425568,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o16666629000": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Arjun",
+      "price_estimation": "₹1,50,000 - ₹2,00,000"
+    },
+    "rust_tire": {
+      "rust_percent": 15,
+      "rust_observation_text": "Rust is visible on the front grille and some parts of the body. It appears to be moderate in severity.",
+      "tires": {
+        "front_left": {
+          "percent": 60,
+          "text": "The front left tire shows moderate wear with some visible dirt."
+        },
+        "front_right": {
+          "percent": 60,
+          "text": "The front right tire shows moderate wear with some visible dirt."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "The rear left tire appears to be in relatively good condition with minor wear."
+        },
+        "rear_right": {
+          "percent": "not_visible",
+          "text": "The rear right tire is not clearly visible."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra Arjun 555 DI",
+      "match_score": 80.0,
+      "max_price": 861350
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 15,
+        "rust_observation_text": "Rust is visible on the front grille and some parts of the body. It appears to be moderate in severity.",
+        "tires": {
+          "front_left": {
+            "percent": 60,
+            "text": "The front left tire shows moderate wear with some visible dirt."
+          },
+          "front_right": {
+            "percent": 60,
+            "text": "The front right tire shows moderate wear with some visible dirt."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "The rear left tire appears to be in relatively good condition with minor wear."
+          },
+          "rear_right": {
+            "percent": "not_visible",
+            "text": "The rear right tire is not clearly visible."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra Arjun 555 DI",
+        "match_score": 80.0,
+        "max_price": 861350
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 45.0,
+        "estimated_resale_value_percent": 55.0,
+        "estimated_resale_price_inr": 473743,
+        "rust_depreciation": 6.0,
+        "tire_depreciation": 22.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Average",
+          "front_right": "Average",
+          "rear_left": "Good",
+          "rear_right": "not_visible"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "WhatsApp_Image_2025-08-05_at_4.21.17_PM_2.jpeg",
+        "tractor"
+      ],
+      [
+        "WhatsApp_Image_2025-08-05_at_4.21.17_PM_1.jpeg",
+        "tractor"
+      ],
+      [
+        "WhatsApp_Image_2025-08-05_at_4.21.17_PM.jpeg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o16666629001": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Old Model",
+      "price_estimation": 125000
+    },
+    "rust_tire": {
+      "rust_percent": 15,
+      "rust_observation_text": "Rust is visible on the front grille and some areas of the body, particularly around the edges and joints.",
+      "tires": {
+        "front_left": {
+          "percent": 60,
+          "text": "Front left tire shows moderate wear with some visible dirt."
+        },
+        "front_right": {
+          "percent": 60,
+          "text": "Front right tire shows moderate wear with some visible dirt."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire appears to be in relatively good condition with minor wear."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire appears to be in relatively good condition with minor wear."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra 555 DI Powerplus",
+      "match_score": 55.81395348837209,
+      "max_price": 710000
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 15,
+        "rust_observation_text": "Rust is visible on the front grille and some areas of the body, particularly around the edges and joints.",
+        "tires": {
+          "front_left": {
+            "percent": 60,
+            "text": "Front left tire shows moderate wear with some visible dirt."
+          },
+          "front_right": {
+            "percent": 60,
+            "text": "Front right tire shows moderate wear with some visible dirt."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire appears to be in relatively good condition with minor wear."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire appears to be in relatively good condition with minor wear."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra 555 DI Powerplus",
+        "match_score": 55.81395348837209,
+        "max_price": 710000
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 95,
+        "estimated_resale_value_percent": 5,
+        "estimated_resale_price_inr": 35500,
+        "rust_depreciation": 6.0,
+        "tire_depreciation": 21.0,
+        "age_depreciation": 70,
+        "tire_conditions": {
+          "front_left": "Average",
+          "front_right": "Average",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "WhatsApp_Image_2025-08-05_at_4.21.17_PM_2.jpeg",
+        "tractor"
+      ],
+      [
+        "WhatsApp_Image_2025-08-05_at_4.21.17_PM_1.jpeg",
+        "tractor"
+      ],
+      [
+        "WhatsApp_Image_2025-08-05_at_4.21.17_PM.jpeg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997654": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "RC_number": "MH15JM5592",
+      "age": 1,
+      "owner_name": "DATTATRAY CHANGDEO GADHE",
+      "Model": "YUVO TECH+575 DI",
+      "status": 1
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "575 Series",
+      "price_estimation": "₹3,50,000 - ₹5,00,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust visible on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 70,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 70,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 60,
+          "text": "Rear left tire shows moderate wear but still has visible tread."
+        },
+        "rear_right": {
+          "percent": 60,
+          "text": "Rear right tire shows moderate wear but still has visible tread."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+      "match_score": 76.36363636363637,
+      "max_price": 674100
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust visible on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 70,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 70,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 60,
+            "text": "Rear left tire shows moderate wear but still has visible tread."
+          },
+          "rear_right": {
+            "percent": 60,
+            "text": "Rear right tire shows moderate wear but still has visible tread."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+        "match_score": 76.36363636363637,
+        "max_price": 674100
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 30.0,
+        "estimated_resale_value_percent": 70.0,
+        "estimated_resale_price_inr": 471870,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 21.0,
+        "age_depreciation": 7,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Average",
+          "rear_right": "Average"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "RC_number": "MH15JM5592",
+      "age": 1,
+      "owner_name": "DATTATRAY CHANGDEO GADHE",
+      "Model": "YUVO TECH+575 DI",
+      "status": 1
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Unknown",
+      "price_estimation": "300000 - 400000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows some wear but still in decent condition."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows some wear but still in decent condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+      "match_score": 76.36363636363637,
+      "max_price": 674100
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows some wear but still in decent condition."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows some wear but still in decent condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+        "match_score": 76.36363636363637,
+        "max_price": 674100
+      },
+      "valuation_result": {
+        "total_depreciation_percent": 24.0,
+        "estimated_resale_value_percent": 76.0,
+        "estimated_resale_price_inr": 512316,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 7,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "RC_number": "MH15JM5592",
+      "age": 1,
+      "owner_name": "DATTATRAY CHANGDEO GADHE",
+      "Model": "YUVO TECH+575 DI",
+      "status": 1
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "YUVO TECH+575 DI",
+      "price_estimation": "₹3,50,000 - ₹4,50,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows some wear but is generally in decent condition."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows some wear but is generally in decent condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+      "match_score": 76.36363636363637,
+      "max_price": 674100
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows some wear but is generally in decent condition."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows some wear but is generally in decent condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+        "match_score": 76.36363636363637,
+        "max_price": 674100
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "YUVO TECH+575 DI",
+        "price_estimation": "₹3,50,000 - ₹4,50,000"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "YUVO TECH+575 DI",
+        "total_depreciation_percent": 24.0,
+        "estimated_resale_value_percent": 76.0,
+        "estimated_resale_price_inr": 512316,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 7,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o16666629976533211111111": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "RC_number": "MH15JM5592",
+      "age": 1,
+      "owner_name": "DATTATRAY CHANGDEO GADHE",
+      "Model": "YUVO TECH+575 DI",
+      "status": 1
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "YUVO TECH+575 DI",
+      "price_estimation": "INR 3,50,000 - 4,50,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper and some metal parts.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 75,
+          "text": "Rear left tire has some wear but overall in decent condition."
+        },
+        "rear_right": {
+          "percent": 75,
+          "text": "Rear right tire has some wear but overall in decent condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+      "match_score": 76.36363636363637,
+      "max_price": 674100
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper and some metal parts.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 75,
+            "text": "Rear left tire has some wear but overall in decent condition."
+          },
+          "rear_right": {
+            "percent": 75,
+            "text": "Rear right tire has some wear but overall in decent condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+        "match_score": 76.36363636363637,
+        "max_price": 674100
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "YUVO TECH+575 DI",
+        "price_estimation": "INR 3,50,000 - 4,50,000"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "YUVO TECH+575 DI",
+        "total_depreciation_percent": 22.5,
+        "estimated_resale_value_percent": 77.5,
+        "estimated_resale_price_inr": 522428,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 13.5,
+        "age_depreciation": 7,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "11111111.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o16666629976533211111114": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "John Deere",
+      "model": "Toy Tractor",
+      "price_estimation": 10351
+    },
+    "rust_tire": {
+      "rust_percent": 0,
+      "rust_observation_text": "No rust observed as this is a toy tractor.",
+      "tires": {
+        "front_left": {
+          "percent": 100,
+          "text": "Tire is in excellent condition."
+        },
+        "front_right": {
+          "percent": 100,
+          "text": "Tire is in excellent condition."
+        },
+        "rear_left": {
+          "percent": 100,
+          "text": "Tire is in excellent condition."
+        },
+        "rear_right": {
+          "percent": 100,
+          "text": "Tire is in excellent condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "John Deere 5039 D PowerPro",
+      "match_score": 58.33333333333333,
+      "max_price": 752600
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 0,
+        "rust_observation_text": "No rust observed as this is a toy tractor.",
+        "tires": {
+          "front_left": {
+            "percent": 100,
+            "text": "Tire is in excellent condition."
+          },
+          "front_right": {
+            "percent": 100,
+            "text": "Tire is in excellent condition."
+          },
+          "rear_left": {
+            "percent": 100,
+            "text": "Tire is in excellent condition."
+          },
+          "rear_right": {
+            "percent": 100,
+            "text": "Tire is in excellent condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "John Deere 5039 D PowerPro",
+        "match_score": 58.33333333333333,
+        "max_price": 752600
+      },
+      "brand_model_prediction": {
+        "brand": "John Deere",
+        "model": "Toy Tractor",
+        "price_estimation": 10351
+      },
+      "valuation_result": {
+        "brand": "John Deere",
+        "model": "Toy Tractor",
+        "total_depreciation_percent": 70.0,
+        "estimated_resale_value_percent": 30.0,
+        "estimated_resale_price_inr": 225780,
+        "rust_depreciation": 0.0,
+        "tire_depreciation": 0.0,
+        "age_depreciation": 70,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "WJNAuMokkdIk_toy.jpeg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o166666299765332111111142": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "John Deere",
+      "model": "Ride-on Toy Tractor",
+      "price_estimation": "5000-7000"
+    },
+    "rust_tire": {
+      "rust_percent": 0,
+      "rust_observation_text": "No rust observed as this is a toy tractor.",
+      "tires": {
+        "front_left": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        },
+        "front_right": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        },
+        "rear_left": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        },
+        "rear_right": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "John Deere 5039 D PowerPro",
+      "match_score": 50.0,
+      "max_price": 752600
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 0,
+        "rust_observation_text": "No rust observed as this is a toy tractor.",
+        "tires": {
+          "front_left": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          },
+          "front_right": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          },
+          "rear_left": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          },
+          "rear_right": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "John Deere 5039 D PowerPro",
+        "match_score": 50.0,
+        "max_price": 752600
+      },
+      "brand_model_prediction": {
+        "brand": "John Deere",
+        "model": "Ride-on Toy Tractor",
+        "price_estimation": "5000-7000"
+      },
+      "valuation_result": {
+        "brand": "John Deere",
+        "model": "Ride-on Toy Tractor",
+        "total_depreciation_percent": 70.0,
+        "estimated_resale_value_percent": 30.0,
+        "estimated_resale_price_inr": 225780,
+        "rust_depreciation": 0.0,
+        "tire_depreciation": 0.0,
+        "age_depreciation": 70,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "WJNAuMokkdIk_toy.jpeg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o166666299765332111111143": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "John Deere (toy version)",
+      "model": "Unknown (Children's Toy Tractor)",
+      "price_estimation": "INR 10,351 (new)"
+    },
+    "rust_tire": {},
+    "top_price": {
+      "matched_title": "John Deere 5039 D PowerPro",
+      "match_score": 43.37349397590361,
+      "max_price": 752600
+    },
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "WJNAuMokkdIk_toy.jpeg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o166666299765332111111144": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "John Deere-like (Toy)",
+      "model": "Not Applicable",
+      "price_estimation": "Approx. ₹10,351 (new)"
+    },
+    "rust_tire": {},
+    "top_price": {
+      "matched_title": "John Deere 5060 E - 2WD AC Cabin",
+      "match_score": 50.0,
+      "max_price": 1717200
+    },
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "WJNAuMokkdIk_toy.jpeg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111441": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "John Deere (Toy)",
+      "model": "Ride-on Toy Tractor",
+      "price_estimation": "This is a toy, so typical market price applies."
+    },
+    "rust_tire": {
+      "rust_percent": 0,
+      "rust_observation_text": "No rust observed as the tractor is a toy and made of plastic.",
+      "tires": {
+        "front_left": {
+          "percent": 100,
+          "text": "Tire appears to be in perfect condition."
+        },
+        "front_right": {
+          "percent": 100,
+          "text": "Tire appears to be in perfect condition."
+        },
+        "rear_left": {
+          "percent": 100,
+          "text": "Tire appears to be in perfect condition."
+        },
+        "rear_right": {
+          "percent": 100,
+          "text": "Tire appears to be in perfect condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "John Deere 5039 D PowerPro",
+      "match_score": 48.38709677419355,
+      "max_price": 752600
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 0,
+        "rust_observation_text": "No rust observed as the tractor is a toy and made of plastic.",
+        "tires": {
+          "front_left": {
+            "percent": 100,
+            "text": "Tire appears to be in perfect condition."
+          },
+          "front_right": {
+            "percent": 100,
+            "text": "Tire appears to be in perfect condition."
+          },
+          "rear_left": {
+            "percent": 100,
+            "text": "Tire appears to be in perfect condition."
+          },
+          "rear_right": {
+            "percent": 100,
+            "text": "Tire appears to be in perfect condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "John Deere 5039 D PowerPro",
+        "match_score": 48.38709677419355,
+        "max_price": 752600
+      },
+      "brand_model_prediction": {
+        "brand": "John Deere (Toy)",
+        "model": "Ride-on Toy Tractor",
+        "price_estimation": "This is a toy, so typical market price applies."
+      },
+      "valuation_result": {
+        "brand": "John Deere (Toy)",
+        "model": "Ride-on Toy Tractor",
+        "total_depreciation_percent": 70.0,
+        "estimated_resale_value_percent": 30.0,
+        "estimated_resale_price_inr": 225780,
+        "rust_depreciation": 0.0,
+        "tire_depreciation": 0.0,
+        "age_depreciation": 70,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "WJNAuMokkdIk_toy.jpeg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111442": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "John Deere",
+      "model": "Toy Ride-On",
+      "price_estimation": 7000
+    },
+    "rust_tire": {
+      "rust_percent": 0,
+      "rust_observation_text": "No rust observed as the tractor appears to be a toy.",
+      "tires": {
+        "front_left": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        },
+        "front_right": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        },
+        "rear_left": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        },
+        "rear_right": {
+          "percent": 100,
+          "text": "Tire appears to be in excellent condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "John Deere 5310 Trem IV",
+      "match_score": 57.77777777777777,
+      "max_price": 1284720
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 0,
+        "rust_observation_text": "No rust observed as the tractor appears to be a toy.",
+        "tires": {
+          "front_left": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          },
+          "front_right": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          },
+          "rear_left": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          },
+          "rear_right": {
+            "percent": 100,
+            "text": "Tire appears to be in excellent condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "John Deere 5310 Trem IV",
+        "match_score": 57.77777777777777,
+        "max_price": 1284720
+      },
+      "brand_model_prediction": {
+        "brand": "John Deere",
+        "model": "Toy Ride-On",
+        "price_estimation": 7000
+      },
+      "valuation_result": {
+        "brand": "John Deere",
+        "model": "Toy Ride-On",
+        "total_depreciation_percent": 70.0,
+        "estimated_resale_value_percent": 30.0,
+        "estimated_resale_price_inr": 385416,
+        "rust_depreciation": 0.0,
+        "tire_depreciation": 0.0,
+        "age_depreciation": 70,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "toy_2025-08-06_133213.png",
+        "tractor"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111443": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "toy_2025-08-06_133213.png",
+        "Toy"
+      ],
+      [
+        "toy_2025-08-06_133213.png",
+        "error"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111444": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "toy_2025-08-06_133213.png",
+        "Toy"
+      ],
+      [
+        "toy_2025-08-06_133213.png",
+        "error"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111445": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "toy_2025-08-06_133213.png",
+        "Toy"
+      ],
+      [
+        "toy_2025-08-06_133213.png",
+        "error"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111446": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "toy_2025-08-06_133213.png",
+        "others"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111447": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "toy_2025-08-06_133213.png",
+        "others"
+      ]
+    ]
+  },
+  "user_fupvu4f1o1666662997653321111111448": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "toy2.png",
+        "Toy"
+      ],
+      [
+        "toy_2025-08-06_133213.png",
+        "Toy"
+      ]
+    ]
+  },
+  "+918009493880": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {},
+    "rust_tire": {},
+    "top_price": {},
+    "valuation_result": {},
+    "image_classification": [
+      [
+        "+918009493880-6e8a5b7b25cc48888a28b1c2d68223e3.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "+919871560356": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Unknown",
+      "price_estimation": "2,50,000 - 3,00,000"
+    },
+    "rust_tire": {
+      "rust_percent": 0,
+      "rust_observation_text": "No visible rust on the tractor.",
+      "tires": {
+        "front_left": {
+          "percent": "not_visible",
+          "text": "Front left tire is not visible."
+        },
+        "front_right": {
+          "percent": "not_visible",
+          "text": "Front right tire is not visible."
+        },
+        "rear_left": {
+          "percent": 80,
+          "text": "Rear left tire appears to be in good condition."
+        },
+        "rear_right": {
+          "percent": "not_visible",
+          "text": "Rear right tire is not visible."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 275 DI",
+      "match_score": 61.111111111111114,
+      "max_price": 644800
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 0,
+        "rust_observation_text": "No visible rust on the tractor.",
+        "tires": {
+          "front_left": {
+            "percent": "not_visible",
+            "text": "Front left tire is not visible."
+          },
+          "front_right": {
+            "percent": "not_visible",
+            "text": "Front right tire is not visible."
+          },
+          "rear_left": {
+            "percent": 80,
+            "text": "Rear left tire appears to be in good condition."
+          },
+          "rear_right": {
+            "percent": "not_visible",
+            "text": "Rear right tire is not visible."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 275 DI",
+        "match_score": 61.111111111111114,
+        "max_price": 644800
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "Unknown",
+        "price_estimation": "2,50,000 - 3,00,000"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "Unknown",
+        "total_depreciation_percent": 29.0,
+        "estimated_resale_value_percent": 71.0,
+        "estimated_resale_price_inr": 457808,
+        "rust_depreciation": 0.0,
+        "tire_depreciation": 12.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "not_visible",
+          "front_right": "not_visible",
+          "rear_left": "Good",
+          "rear_right": "not_visible"
+        }
+      },
+      "final_valuation": "🚜 *Tractor Ka Andaja* 📋\n\n*Brand/Model*: Lagta hai ye Mahindra ka model hai\n\n- *Zang ka haal*: Dekhne mein toh bilkul naya hi lag raha hai, Zang ka koi nishan nahi mila.\n- *Tyre ki halat*:\n    - *Aage ka Left Tyre*: Photo mein nahi dikha\n    - *Aage ka Right Tyre*: Photo mein nahi dikha\n    - *Piche ka Left Tyre*: Majboot aur tikau (80% behetareen)\n    - *Piche ka Right Tyre*: Photo mein nahi dikha\n- *Depreciation ka andaja*:\n    - Overall: 29.0%\n    - Because of Zang: 0.0%\n    - Because of Tyre Wear: 12.0%\n\n👉 *Andajit Bikri Daam*: ₹457,808 se ₹472,808 ke beech mein ho sakta hai.🚜💰\n\nYaad rakhiye, ye keval andaja hai, aapke tractor ka asli daam uske condition, model aur market demand par depend karta hai."
+    },
+    "image_classification": [
+      [
+        "+919871560356-6e352ad7d0ac4802887aa069ef276a77.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "+918707522953": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "825 DI",
+      "price_estimation": "100,000 - 150,000 INR"
+    },
+    "rust_tire": {
+      "rust_percent": 15,
+      "rust_observation_text": "Rust is visible on the front wheel rims and some parts of the chassis.",
+      "tires": {
+        "front_left": {
+          "percent": 40,
+          "text": "The tire shows significant wear and appears to be in poor condition."
+        },
+        "front_right": {
+          "percent": 40,
+          "text": "The tire shows significant wear and appears to be in poor condition."
+        },
+        "rear_left": {
+          "percent": "not_visible",
+          "text": "The tire is not visible in the image."
+        },
+        "rear_right": {
+          "percent": "not_visible",
+          "text": "The tire is not visible in the image."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 275 DI",
+      "match_score": 80.0,
+      "max_price": 644800
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 15,
+        "rust_observation_text": "Rust is visible on the front wheel rims and some parts of the chassis.",
+        "tires": {
+          "front_left": {
+            "percent": 40,
+            "text": "The tire shows significant wear and appears to be in poor condition."
+          },
+          "front_right": {
+            "percent": 40,
+            "text": "The tire shows significant wear and appears to be in poor condition."
+          },
+          "rear_left": {
+            "percent": "not_visible",
+            "text": "The tire is not visible in the image."
+          },
+          "rear_right": {
+            "percent": "not_visible",
+            "text": "The tire is not visible in the image."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 275 DI",
+        "match_score": 80.0,
+        "max_price": 644800
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "825 DI",
+        "price_estimation": "100,000 - 150,000 INR"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "825 DI",
+        "total_depreciation_percent": 59.0,
+        "estimated_resale_value_percent": 41.0,
+        "estimated_resale_price_inr": 264368,
+        "rust_depreciation": 6.0,
+        "tire_depreciation": 36.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Average",
+          "front_right": "Average",
+          "rear_left": "not_visible",
+          "rear_right": "not_visible"
+        }
+      },
+      "final_valuation": "🚜 *Tractor Ka Andaja* 📋\n\n*Brand/Model*: Mahindra 825 DI lagta hai\n\n- *Zang ka haal*: 15% rust hai, Rust is visible on the front wheel rims and some parts of the chassis.\n- *Tyre ki halat*:\n   - *Front Left*: kaafi purana lagta hai (40%)\n   - *Front Right*: kaafi purana lagta hai (40%)\n   - *Rear Left*: tasveer me dikhai nahi de rha \n   - *Rear Right*: tasveer me dikhai nahi de rha \n- *Depreciation ka andaja*:\n   - Kul: 59.0%\n   - Zang: 6.0%\n   - Tyre se: 36.0%\n\n👉 *Andajit Bikri Daam*: ₹264,368 se ₹279,368 🚜💰\n\nPlease remember this is just an estimate. The actual selling price might be higher or lower depending on various factors. Contact your local dealer for more accurate pricing. ✌🏻😄"
+    },
+    "image_classification": [
+      [
+        "+918707522953-1562e2f5a9ec40f2ba952165485121f0.jpg",
+        "tractor"
+      ],
+      [
+        "+918707522953-7c1a3718fe984ac0bdfe99743cdee503.jpg",
+        "others"
+      ],
+      [
+        "+918707522953-58422c5af60d411aaffc48ddc0866376.jpg",
+        "others"
+      ]
+    ]
+  },
+  "+919818353684": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "265 DI",
+      "price_estimation": "2,50,000 - 3,00,000"
+    },
+    "rust_tire": {
+      "rust_percent": 0,
+      "rust_observation_text": "No visible rust on the tractor body.",
+      "tires": {
+        "front_left": {
+          "percent": 90,
+          "text": "Front left tire appears to be in good condition with minimal wear."
+        },
+        "front_right": {
+          "percent": 90,
+          "text": "Front right tire appears to be in good condition with minimal wear."
+        },
+        "rear_left": {
+          "percent": 90,
+          "text": "Rear left tire appears to be in good condition with minimal wear."
+        },
+        "rear_right": {
+          "percent": 90,
+          "text": "Rear right tire appears to be in good condition with minimal wear."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra Yuvo 265 DI",
+      "match_score": 85.71428571428572,
+      "max_price": 549980
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 0,
+        "rust_observation_text": "No visible rust on the tractor body.",
+        "tires": {
+          "front_left": {
+            "percent": 90,
+            "text": "Front left tire appears to be in good condition with minimal wear."
+          },
+          "front_right": {
+            "percent": 90,
+            "text": "Front right tire appears to be in good condition with minimal wear."
+          },
+          "rear_left": {
+            "percent": 90,
+            "text": "Rear left tire appears to be in good condition with minimal wear."
+          },
+          "rear_right": {
+            "percent": 90,
+            "text": "Rear right tire appears to be in good condition with minimal wear."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra Yuvo 265 DI",
+        "match_score": 85.71428571428572,
+        "max_price": 549980
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "265 DI",
+        "price_estimation": "2,50,000 - 3,00,000"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "265 DI",
+        "total_depreciation_percent": 23.0,
+        "estimated_resale_value_percent": 77.0,
+        "estimated_resale_price_inr": 423485,
+        "rust_depreciation": 0.0,
+        "tire_depreciation": 6.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      },
+      "final_valuation": "🚜 *Tractor Ka Andaja* 📋\n\n*Brand/Model*: Mahindra 265 DI lagta hai\n\n- *Zang ka haal*: Kamaal hai, 0% rust hai, tractor ka body bilkul saaf\n- *Tyre ki halat*:\n    - *Front Left*: Lage raho! Tyre badiya halat mein hai (90%)\n    - *Front Right*: Lage raho! Tyre badiya halat mein hai (90%)\n    - *Rear Left*: Lage raho! Tyre badiya halat mein hai (90%)\n    - *Rear Right*: Lage raho! Tyre badiya halat mein hai (90%)\n- *Depreciation ka andaja*:\n    - Kul: 23.0%, thoda sa hai par koi na, tractor acha hai\n    - Zang: 0.0%, bilkul zang nahi hai \n    - Tyre se: 6.0%, tyre bhi chahak rahe hain\n\n👉 *Andajit Bikri Daam*: ₹423,485 se ₹438,485 ke beech ho sakta hai. Jama paisa! 🚜💰"
+    },
+    "image_classification": [
+      [
+        "+919818353684-80c7ac3b435b484ba5659c05a87b35f5.jpg",
+        "tractor"
+      ],
+      [
+        "+919818353684-005ab5dabb3c458cbe71e33ef9351ec6.jpg",
+        "others"
+      ]
+    ]
+  },
+  "+919810056680": {
+    "number_plate": "Filenotfound:classified_images\\tractor\\+919810056680e8a2f255d20e4d539c4ba5198d473d95.jpg",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "John Deere",
+      "model": "9RX",
+      "price_estimation": "7500000 to 10000000 INR"
+    },
+    "rust_tire": {
+      "rust_percent": 25,
+      "rust_observation_text": "Rust is primarily found on the lower chassis and around the wheel wells. It is moderate in severity, with some surface rust on the hood and minor spots on the cabin door edges.",
+      "tires": {
+        "front_left": {
+          "percent": 70,
+          "text": "The front left tire shows moderate wear with some tread remaining. It is in fair condition."
+        },
+        "front_right": {
+          "percent": 65,
+          "text": "The front right tire has noticeable wear and is slightly more worn than the front left. It is in fair condition."
+        },
+        "rear_left": {
+          "percent": 80,
+          "text": "The rear left tire is in good condition with ample tread remaining. It shows minimal wear."
+        },
+        "rear_right": {
+          "percent": 75,
+          "text": "The rear right tire is in good condition with moderate tread wear. It is slightly less worn than the rear left."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "John Deere 5039 D",
+      "match_score": 77.41935483870968,
+      "max_price": 731400
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 25,
+        "rust_observation_text": "Rust is primarily found on the lower chassis and around the wheel wells. It is moderate in severity, with some surface rust on the hood and minor spots on the cabin door edges.",
+        "tires": {
+          "front_left": {
+            "percent": 70,
+            "text": "The front left tire shows moderate wear with some tread remaining. It is in fair condition."
+          },
+          "front_right": {
+            "percent": 65,
+            "text": "The front right tire has noticeable wear and is slightly more worn than the front left. It is in fair condition."
+          },
+          "rear_left": {
+            "percent": 80,
+            "text": "The rear left tire is in good condition with ample tread remaining. It shows minimal wear."
+          },
+          "rear_right": {
+            "percent": 75,
+            "text": "The rear right tire is in good condition with moderate tread wear. It is slightly less worn than the rear left."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "John Deere 5039 D",
+        "match_score": 77.41935483870968,
+        "max_price": 731400
+      },
+      "brand_model_prediction": {
+        "brand": "John Deere",
+        "model": "9RX",
+        "price_estimation": "7500000 to 10000000 INR"
+      },
+      "valuation_result": {
+        "brand": "John Deere",
+        "model": "9RX",
+        "total_depreciation_percent": 43.5,
+        "estimated_resale_value_percent": 56.5,
+        "estimated_resale_price_inr": 413241,
+        "rust_depreciation": 10.0,
+        "tire_depreciation": 16.5,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Average",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      },
+      "final_valuation": "🚜 *Tractor Ka Andaja* 📋\n\n*Brand/Model*: Lagta hai John Deere 9RX hai\n\n- *Zang ka haal*: Lower chassis aur wheel wells ke aaspaas 25% tak zang hai. Yeh samanya taur par gahri hai, hood par kuch satah zang aur cabin darwazon ke kinaaro par chhoti-chhoti jagah par hai.\n- *Tyre ki halat*:\n    - *Front Left*: Thoda ghisa hua hai (70%)\n    - *Front Right*: Thoda ghisa hua hai (65%)\n    - *Rear Left*: Badiya halat mein hai (80%)\n    - *Rear Right*: Thoda ghisa hua hai (75%)\n- *Depreciation ka andaja*:\n    - Kul milakar: 43.5%\n    - Zang ki wajah se: 10.0%\n    - Tyre se: 16.5%\n\n👉 *Andajit Bikri Daam*: ₹413,241 se ₹428,241 tak hona sambhav hai 🚜💰\nAb aapki bari, sochne ka samay! 🤔\nDhanyawaad!"
+    },
+    "image_classification": [
+      [
+        "+919810056680-e8a2f255d20e4d539c4ba5198d473d95.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "+917838693872": {
+    "number_plate": "MH15JM5592",
+    "vahan_data": {
+      "RC_number": "MH15JM5592",
+      "age": 1,
+      "owner_name": "DATTATRAY CHANGDEO GADHE",
+      "Model": "YUVO TECH+575 DI",
+      "status": 1
+    },
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "YUVO TECH+575 DI",
+      "price_estimation": "3,50,000 - 4,50,000 INR"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper area.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with visible tread."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with visible tread."
+        },
+        "rear_left": {
+          "percent": 75,
+          "text": "Rear left tire shows moderate wear but still in usable condition."
+        },
+        "rear_right": {
+          "percent": 75,
+          "text": "Rear right tire shows moderate wear but still in usable condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+      "match_score": 76.36363636363637,
+      "max_price": 674100
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper area.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with visible tread."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with visible tread."
+          },
+          "rear_left": {
+            "percent": 75,
+            "text": "Rear left tire shows moderate wear but still in usable condition."
+          },
+          "rear_right": {
+            "percent": 75,
+            "text": "Rear right tire shows moderate wear but still in usable condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO TECH Plus 405 DI",
+        "match_score": 76.36363636363637,
+        "max_price": 674100
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "YUVO TECH+575 DI",
+        "price_estimation": "3,50,000 - 4,50,000 INR"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "YUVO TECH+575 DI",
+        "total_depreciation_percent": 22.5,
+        "estimated_resale_value_percent": 77.5,
+        "estimated_resale_price_inr": 522428,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 13.5,
+        "age_depreciation": 7,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      },
+      "final_valuation": "🚜 *Tractor Ka Andaja* 📋\n\n*Brand/Model*: Aapke paas jo Mahindra YUVO TECH+575 DI tractor hai:\n\n- *Zang Ka Haal*: Front bumper area par sirf 5% thoda sa zang hai. \n- *Tyre ki Soonch*: \n   - *Agle Baye*: Badiya halat mein hai, lagbhag 80% life bacha hua hai.\n   - *Agle Daye*: Wahi haal hai isi ki bhi, usme bhi 80% zindagi hai.\n   - *Pichle Baye*: Yeh thoda ghisa hua hai, par abhi bhi 75% chal sakta hai.\n   - *Pichle Daye*: Yeh bhi same condition mein hai, isme bhi 75% life baaki hai.\n- *Mulya Avnati (Depreciation)*:\n   - Kul (Total): 22.5% mulya avnati.\n   - Zang Ke Karan: Sirf 2.0% mulya avnati hui hai.   \n   - Tyre Ghisne Se: 13.5% ke aaspaas mulya kam hua hai.\n\n👉 *Andajit Bikri Daam*: Joh aapke tractor ki keemat hai vo ₹522,428 se ₹537,428 tak ho sakti hai 🚜💰\n\nPesh kiya gaya andaja sirf ek manak hai, aapko bechte samay asal mein kitni rakam mile yeh aapki samajhdaari pe depend karti hai. Dhanyavaad!"
+    },
+    "image_classification": [
+      [
+        "+917838693872-06d061a609024dfb8c0dabc9c1c2e238.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "test_user_1234444": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "575 DI",
+      "price_estimation": "INR 3,50,000 - INR 4,50,000"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the metal frame and joints, mostly superficial.",
+      "tires": {
+        "front_left": {
+          "percent": 70,
+          "text": "Front left tire shows moderate wear, but is in usable condition."
+        },
+        "front_right": {
+          "percent": 70,
+          "text": "Front right tire shows moderate wear, but is in usable condition."
+        },
+        "rear_left": {
+          "percent": 80,
+          "text": "Rear left tire is in good condition with minor wear."
+        },
+        "rear_right": {
+          "percent": 80,
+          "text": "Rear right tire is in good condition with minor wear."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 575 DI",
+      "match_score": 85.71428571428572,
+      "max_price": 829250
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the metal frame and joints, mostly superficial.",
+        "tires": {
+          "front_left": {
+            "percent": 70,
+            "text": "Front left tire shows moderate wear, but is in usable condition."
+          },
+          "front_right": {
+            "percent": 70,
+            "text": "Front right tire shows moderate wear, but is in usable condition."
+          },
+          "rear_left": {
+            "percent": 80,
+            "text": "Rear left tire is in good condition with minor wear."
+          },
+          "rear_right": {
+            "percent": 80,
+            "text": "Rear right tire is in good condition with minor wear."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 575 DI",
+        "match_score": 85.71428571428572,
+        "max_price": 829250
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "575 DI",
+        "price_estimation": "INR 3,50,000 - INR 4,50,000"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "575 DI",
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 547305,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "20210730183809_MH27BZ9076_1.jpg",
+        "tractor"
+      ],
+      [
+        "20210730183809_MH27BZ9076_5.jpg",
+        "tractor"
+      ],
+      [
+        "20210730183810_MH27BZ9076_2.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "test_user_12344442121": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "275 DI ECO",
+      "price_estimation": "2,50,000 to 3,00,000 INR"
+    },
+    "rust_tire": {
+      "rust_percent": 10,
+      "rust_observation_text": "Rust is visible on the front lower metal guard and some parts of the rear linkage. Severity is mild.",
+      "tires": {
+        "front_left": {
+          "percent": 60,
+          "text": "Front left tire shows moderate wear with some dirt accumulation."
+        },
+        "front_right": {
+          "percent": 60,
+          "text": "Front right tire shows moderate wear with some dirt accumulation."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire is in relatively good condition with minor dirt."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire is in relatively good condition with minor dirt."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra JIVO 245 DI",
+      "match_score": 82.05128205128204,
+      "max_price": 583150
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 10,
+        "rust_observation_text": "Rust is visible on the front lower metal guard and some parts of the rear linkage. Severity is mild.",
+        "tires": {
+          "front_left": {
+            "percent": 60,
+            "text": "Front left tire shows moderate wear with some dirt accumulation."
+          },
+          "front_right": {
+            "percent": 60,
+            "text": "Front right tire shows moderate wear with some dirt accumulation."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire is in relatively good condition with minor dirt."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire is in relatively good condition with minor dirt."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra JIVO 245 DI",
+        "match_score": 82.05128205128204,
+        "max_price": 583150
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "275 DI ECO",
+        "price_estimation": "2,50,000 to 3,00,000 INR"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "275 DI ECO",
+        "total_depreciation_percent": 42.0,
+        "estimated_resale_value_percent": 58.0,
+        "estimated_resale_price_inr": 338227,
+        "rust_depreciation": 4.0,
+        "tire_depreciation": 21.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Average",
+          "front_right": "Average",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "275-di-sp-plus-202872-1750306873-0.jpg",
+        "tractor"
+      ],
+      [
+        "275-di-sp-plus-202872-1750306877-1.jpg",
+        "tractor"
+      ],
+      [
+        "275-di-sp-plus-202872-1750306884-3.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "user_0hbr9yeng1760353786319": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "Older Model",
+      "price_estimation": "INR 1,50,000 - 2,00,000"
+    },
+    "rust_tire": {
+      "rust_percent": 15,
+      "rust_observation_text": "Rust is visible on the wheel rims and some parts of the body, particularly around the edges and joints.",
+      "tires": {
+        "front_left": {
+          "percent": 60,
+          "text": "The tire shows moderate wear with some visible dirt."
+        },
+        "front_right": {
+          "percent": 60,
+          "text": "The tire shows moderate wear with some visible dirt."
+        },
+        "rear_left": {
+          "percent": 50,
+          "text": "The tire shows significant wear with visible dirt and some cracks."
+        },
+        "rear_right": {
+          "percent": "not_visible",
+          "text": "The tire is not clearly visible."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra 255 DI Power plus",
+      "match_score": 60.86956521739131,
+      "max_price": 481500
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 15,
+        "rust_observation_text": "Rust is visible on the wheel rims and some parts of the body, particularly around the edges and joints.",
+        "tires": {
+          "front_left": {
+            "percent": 60,
+            "text": "The tire shows moderate wear with some visible dirt."
+          },
+          "front_right": {
+            "percent": 60,
+            "text": "The tire shows moderate wear with some visible dirt."
+          },
+          "rear_left": {
+            "percent": 50,
+            "text": "The tire shows significant wear with visible dirt and some cracks."
+          },
+          "rear_right": {
+            "percent": "not_visible",
+            "text": "The tire is not clearly visible."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra 255 DI Power plus",
+        "match_score": 60.86956521739131,
+        "max_price": 481500
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "Older Model",
+        "price_estimation": "INR 1,50,000 - 2,00,000"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "Older Model",
+        "total_depreciation_percent": 49.0,
+        "estimated_resale_value_percent": 51.0,
+        "estimated_resale_price_inr": 245565,
+        "rust_depreciation": 6.0,
+        "tire_depreciation": 26.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Average",
+          "front_right": "Average",
+          "rear_left": "Average",
+          "rear_right": "not_visible"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "tractor_old_1.jpg",
+        "tractor"
+      ],
+      [
+        "tractor_old_2.jpg",
+        "tractor"
+      ],
+      [
+        "tractor_old_3.jpg",
+        "tractor"
+      ],
+      [
+        "tractor_old_4.jpg",
+        "tractor"
+      ]
+    ]
+  },
+  "default_user": {
+    "number_plate": "",
+    "vahan_data": {},
+    "brand_model": {
+      "brand": "Mahindra",
+      "model": "575 DI",
+      "price_estimation": "3,50,000 to 4,50,000 INR"
+    },
+    "rust_tire": {
+      "rust_percent": 5,
+      "rust_observation_text": "Minor rust observed on the front bumper and some metal parts.",
+      "tires": {
+        "front_left": {
+          "percent": 80,
+          "text": "Front left tire appears to be in good condition with minimal wear."
+        },
+        "front_right": {
+          "percent": 80,
+          "text": "Front right tire appears to be in good condition with minimal wear."
+        },
+        "rear_left": {
+          "percent": 70,
+          "text": "Rear left tire shows moderate wear but is still in usable condition."
+        },
+        "rear_right": {
+          "percent": 70,
+          "text": "Rear right tire shows moderate wear but is still in usable condition."
+        }
+      }
+    },
+    "top_price": {
+      "matched_title": "Mahindra YUVO 575 DI",
+      "match_score": 85.71428571428572,
+      "max_price": 829250
+    },
+    "valuation_result": {
+      "rust_tire_analysis": {
+        "rust_percent": 5,
+        "rust_observation_text": "Minor rust observed on the front bumper and some metal parts.",
+        "tires": {
+          "front_left": {
+            "percent": 80,
+            "text": "Front left tire appears to be in good condition with minimal wear."
+          },
+          "front_right": {
+            "percent": 80,
+            "text": "Front right tire appears to be in good condition with minimal wear."
+          },
+          "rear_left": {
+            "percent": 70,
+            "text": "Rear left tire shows moderate wear but is still in usable condition."
+          },
+          "rear_right": {
+            "percent": 70,
+            "text": "Rear right tire shows moderate wear but is still in usable condition."
+          }
+        }
+      },
+      "top_price_fuzzy_match": {
+        "matched_title": "Mahindra YUVO 575 DI",
+        "match_score": 85.71428571428572,
+        "max_price": 829250
+      },
+      "brand_model_prediction": {
+        "brand": "Mahindra",
+        "model": "575 DI",
+        "price_estimation": "3,50,000 to 4,50,000 INR"
+      },
+      "valuation_result": {
+        "brand": "Mahindra",
+        "model": "575 DI",
+        "total_depreciation_percent": 34.0,
+        "estimated_resale_value_percent": 66.0,
+        "estimated_resale_price_inr": 547305,
+        "rust_depreciation": 2.0,
+        "tire_depreciation": 15.0,
+        "age_depreciation": 17,
+        "tire_conditions": {
+          "front_left": "Good",
+          "front_right": "Good",
+          "rear_left": "Good",
+          "rear_right": "Good"
+        }
+      }
+    },
+    "image_classification": [
+      [
+        "2b5379b4-3f3b-40db-a58f-244c0a65d1e0_1000023011.jpg",
+        "tractor"
+      ],
+      [
+        "a01481b0-dcd8-40b3-8740-75e8f245002e_1000023012.jpg",
+        "tractor"
+      ],
+      [
+        "570b54a6-f825-41c8-acf8-c647206ed8f3_1000023010.jpg",
+        "tractor"
+      ]
+    ],
+    "image_urls": [
+      "https://d18xt1kbffvwx1.cloudfront.net/tractor-images/default_user/default_user-d23320161b294b7597d1765b133b0455.jpg",
+      "https://d18xt1kbffvwx1.cloudfront.net/tractor-images/default_user/default_user-0c36bed05352456e933de71d49992784.jpg",
+      "https://d18xt1kbffvwx1.cloudfront.net/tractor-images/default_user/default_user-c7877c7d4e3d42248b23a8ba071300e2.jpg"
+    ]
+  }
+}

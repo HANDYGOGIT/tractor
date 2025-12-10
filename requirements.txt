@@ -1,0 +1,34 @@
+# Web Framework
+Flask==3.0.0
+fla***REMOVED***cors==4.0.0
+Werkzeug==3.0.1
+
+# OpenAI API
+openai==1.54.3
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Cryptography (for AES encryption in Vahan API)
+pycryptodome==3.19.0
+
+# Fuzzy String Matching
+rapidfuzz==3.5.2
+
+# PostgreSQL Database
+psycopg2-binary==2.9.9
+
+# Production WSGI Server
+waitress==2.1.2
+
+# AWS S3 Integration
+boto3==1.34.0
+
+# Google Generative AI
+google-generativeai==0.8.3
+
+# Image Processing
+Pillow==10.1.0
